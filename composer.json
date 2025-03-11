@@ -1,0 +1,13 @@
+{
+    "name": "user/neski-finalproject",
+    "description": "A PHP-based gifting website project.",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "jackson misiocha",
+            "email": "misiochajackson647@gmail.com"
+        }
+    ]
+}
